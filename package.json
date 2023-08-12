@@ -1,6 +1,6 @@
 {
   "private": true,
   "dependencies": {
-    "primeng": "15.4.1"
+    "primeng": "16.2.0"
   }
 }
